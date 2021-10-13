@@ -14,5 +14,6 @@ public class ScannerDemo {
            String s = list.get(i);
             System.out.println(s);
         }
+        System.out.println("test");
     }
 }
